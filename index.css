@@ -4,9 +4,9 @@
 @import "@economist/component-icon";
 
 .bar-wrapper {
-  font-family: var(--barwrapper-font-family, var(--fontfamily-body));
+  font-family: var(--barwrapper-font-family, var(--fontfamily-sans));
   font-size: var(--barwrapper-font-size, var(--text-size-step--2));
-  line-height: var(--barwrapper-line-height, var(--text-line-height-body-on-step--2));
+  line-height: var(--barwrapper-line-height, var(--text-line-height-sans-on-step--2));
   padding: var(--barwrapper-vertical-padding, var(--grid-spacing-sheep)) var(--barwrapper-horizontal-padding, var(--grid-gutter-s));
 }
 
