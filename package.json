@@ -129,7 +129,7 @@
     "@economist/component-grid": "^1.3.0",
     "@economist/component-icon": "^5.0.0",
     "@economist/component-palette": "^1.2.0",
-    "@economist/component-typography": "^1.4.4"
+    "@economist/component-typography": "^2.0.0"
   },
   "devDependencies": {
     "@economist/component-devpack": "^3.6.1",
