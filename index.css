@@ -33,7 +33,7 @@
 
 .bar-wrapper--container {
   position: relative;
-  padding-right: var(--barwrapper-close-right-spacing, var(--grid-spacing-sheep));
+  padding-right: var(--barwrapper-close-right-spacing, var(--grid-spacing-camel));
   max-width: var(--barwrapper-max-width, 1000px);
   margin: auto;
 }
